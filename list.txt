@@ -1,0 +1,3 @@
+! Name: Google Doodles BLocker
+||www.google.it/logos/*$image
+||www.google.com/logos/*$image
