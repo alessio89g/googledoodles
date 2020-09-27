@@ -3,8 +3,8 @@
 !google.it###lga
 !google.com###hplogo
 !google.com###lga
-google.it/logos/doodles/*$image
-google.com/logos/doodles/*$image
+google.it/logos/doodles/*$domain=www.google.it,image
+google.com/logos/doodles/*$domain=www.google.com,image
 google.it##.fJOQGe
 google.com##.fJOQGe
 google.it##.b0KoTc
