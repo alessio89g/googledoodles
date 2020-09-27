@@ -1,5 +1,5 @@
 ! Name: Google Doodles BLocker
-www.google.it###hplogo
-www.google.it###lga
-www.google.com###hplogo
-www.google.com###lga
+google.it###hplogo
+google.it###lga
+google.com###hplogo
+google.com###lga
