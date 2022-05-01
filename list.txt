@@ -17,3 +17,7 @@ google.com##.Lt2Ned.As6eLe.M6hT6.fbar > div > a.Fx4vi:nth-of-type(2)
 google.com##.Lt2Ned.As6eLe.M6hT6.fbar > div > a.Fx4vi:nth-of-type(3)
 google.it###mdlogo
 google.com###mdlogo
+google.it##.szppmdbYutt__middle-slot-promo
+google.com##.szppmdbYutt__middle-slot-promo
+google.it###gws-output-pages-elements-homepage_additional_languages__als
+google.com###gws-output-pages-elements-homepage_additional_languages__als
