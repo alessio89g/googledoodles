@@ -21,3 +21,25 @@ google.it##.szppmdbYutt__middle-slot-promo
 google.com##.szppmdbYutt__middle-slot-promo
 google.it###gws-output-pages-elements-homepage_additional_languages__als
 google.com###gws-output-pages-elements-homepage_additional_languages__als
+google.it##.uU7dJb
+google.com##.uU7dJb
+google.it##a.pHiOh:nth-of-type(1)
+google.com##a.pHiOh:nth-of-type(1)
+google.it##a.pHiOh:nth-of-type(2)
+google.com##a.pHiOh:nth-of-type(2)
+google.it##a.pHiOh:nth-of-type(3)
+google.com##a.pHiOh:nth-of-type(3)
+google.it###gws-output-pages-elements-homepage_additional_languages__als
+google.com###gws-output-pages-elements-homepage_additional_languages__als
+google.it##.kmjBcc
+google.com##.kmjBcc
+google.it##.gb_og.gb_xg.gb_i.gb_ae
+google.com##.gb_og.gb_xg.gb_i.gb_ae
+google.it##a.MV3Tnb:nth-of-type(1)
+google.com##a.MV3Tnb:nth-of-type(1)
+google.it##a.MV3Tnb:nth-of-type(2)
+google.com##a.MV3Tnb:nth-of-type(2)
+google.it##.ssOUyb.KxwPGc > .pHiOh
+google.com##.ssOUyb.KxwPGc > .pHiOh
+google.it##.szppmdbYutt__middle-slot-promo
+google.com##.szppmdbYutt__middle-slot-promo
