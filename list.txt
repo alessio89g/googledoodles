@@ -47,3 +47,5 @@ google.it##.b0KoTc
 google.com##.b0KoTc
 google.it##.As6eLe.M6hT6.fbar > div
 google.com##.As6eLe.M6hT6.fbar > div
+google.it###SBmmZd
+google.com###SBmmZd
