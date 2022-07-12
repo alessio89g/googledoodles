@@ -49,3 +49,5 @@ google.it##.As6eLe.M6hT6.fbar > div
 google.com##.As6eLe.M6hT6.fbar > div
 google.it###SBmmZd
 google.com###SBmmZd
+google.it##.iblpc
+google.com##.iblpc
