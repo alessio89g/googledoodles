@@ -49,5 +49,5 @@ google.it##.As6eLe.M6hT6.fbar > div
 google.com##.As6eLe.M6hT6.fbar > div
 google.it###SBmmZd
 google.com###SBmmZd
-google.it##.CcAdNb
-google.com##.CcAdNb
+google.it##.MZy1Rb.z1asCe > svg > path
+google.com##.MZy1Rb.z1asCe > svg > path
