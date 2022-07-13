@@ -1,4 +1,19 @@
 ! Name: Google Doodles BLocker
+google.it##.uU7dJb
+google.it##a.pHiOh:nth-of-type(1)
+google.it##a.pHiOh:nth-of-type(2)
+google.it##a.pHiOh:nth-of-type(3)
+google.it###gws-output-pages-elements-homepage_additional_languages__als
+google.it##.kmjBcc
+google.it##.gb_og.gb_xg.gb_i.gb_ae
+google.it##a.MV3Tnb:nth-of-type(1)
+google.it##a.MV3Tnb:nth-of-type(2)
+google.it##.ssOUyb.KxwPGc > .pHiOh
+google.it##.szppmdbYutt__middle-slot-promo
+google.it##.gb_dg.gb_mg.gb_f.gb_8d
+google.it##.gb_bg.gb_kg.gb_f.gb_6d
+google.it##.gb_cg.gb_lg.gb_f.gb_7d
+
 google.it/logos/doodles/*$domain=www.google.it,image
 google.com/logos/doodles/*$domain=www.google.com,image
 google.it##.fJOQGe
