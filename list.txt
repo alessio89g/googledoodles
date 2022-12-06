@@ -66,3 +66,5 @@ google.it###SBmmZd
 google.com###SBmmZd
 google.it##.MZy1Rb.z1asCe > svg > path
 google.com##.MZy1Rb.z1asCe > svg > path
+google.it##.gb_hg.gb_qg.gb_l.gb_ce
+google.com##.gb_hg.gb_qg.gb_l.gb_ce
