@@ -68,3 +68,7 @@ google.it##.MZy1Rb.z1asCe > svg > path
 google.com##.MZy1Rb.z1asCe > svg > path
 google.it##.gb_hg.gb_qg.gb_l.gb_ce
 google.com##.gb_hg.gb_qg.gb_l.gb_ce
+google.it##div.gb_o.gb_n:nth-of-type(1)
+google.it##div.gb_o.gb_n:nth-of-type(2)
+google.com##div.gb_o.gb_n:nth-of-type(1)
+google.com##div.gb_o.gb_n:nth-of-type(2)
