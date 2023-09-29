@@ -92,3 +92,5 @@ google.it##.gb_Kf.gb_Tf.gb_A.gb_yd
 google.com##.gb_Kf.gb_Tf.gb_A.gb_yd
 google.it##.gb_B
 google.com##.gb_B
+google.it##.gb_nd.gb_cb.gb_yd
+google.com##.gb_nd.gb_cb.gb_yd
