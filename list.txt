@@ -82,15 +82,5 @@ google.it##div.gb_v.gb_u:nth-of-type(1)
 google.comt##div.gb_v.gb_u:nth-of-type(1)
 google.it##div.gb_v.gb_u:nth-of-type(2)
 google.com##div.gb_v.gb_u:nth-of-type(2)
-google.it##.gb_v
-google.com##.gb_v
-google.it##div.gb_A.gb_z:nth-of-type(2)
-google.it##.gb_Xf.gb_7f.gb_A.gb_Md
-google.comt##div.gb_A.gb_z:nth-of-type(2)
-google.com##.gb_Xf.gb_7f.gb_A.gb_Md
-google.it##.gb_Kf.gb_Tf.gb_A.gb_yd
-google.com##.gb_Kf.gb_Tf.gb_A.gb_yd
-google.it##.gb_B
-google.com##.gb_B
-google.it##.gb_nd.gb_cb.gb_yd
-google.com##.gb_nd.gb_cb.gb_yd
+google.it##.gb_E
+google.com##.gb_E
