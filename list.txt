@@ -88,3 +88,5 @@ google.it##div.gb_C.gb_B:nth-of-type(1)
 google.it##div.gb_C.gb_B:nth-of-type(2)
 google.com##div.gb_C.gb_B:nth-of-type(1)
 google.com##div.gb_C.gb_B:nth-of-type(2)
+google.it##.gb_B
+google.com##.gb_B
