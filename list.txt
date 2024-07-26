@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ! Name: Google Doodles BLocker
 www.google.it##.uU7dJb
 www.google.it##a.pHiOh:nth-of-type(1)
