@@ -119,3 +119,5 @@ google.it##.CdXeWb.z1asCe.Fp7My
 google.com##.CdXeWb.z1asCe.Fp7My
 google.it##.gb_M.gb_X.gb_Lf.gb_Sf
 google.com##.gb_M.gb_X.gb_Lf.gb_Sf
+google.it##.gb_W.gb_X
+google.com##.gb_W.gb_X
