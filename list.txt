@@ -123,3 +123,5 @@ google.it##.gb_W.gb_X
 google.com##.gb_W.gb_X
 google.it##.gb_Z.gb_0
 google.com##.gb_Z.gb_0
+google.it##.gb_X.gb_Z
+google.com##.gb_X.gb_Z
