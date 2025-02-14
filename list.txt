@@ -14,8 +14,8 @@ google.it##.szppmdbYutt__middle-slot-promo
 google.it##.gb_dg.gb_mg.gb_f.gb_8d
 google.it##.gb_bg.gb_kg.gb_f.gb_6d
 google.it##.gb_cg.gb_lg.gb_f.gb_7d
-google.it/logos/doodles/*$domain=www.google.it,image
-google.com/logos/doodles/*$domain=www.google.com,image
+!google.it/logos/doodles/*$domain=www.google.it,image
+!google.com/logos/doodles/*$domain=www.google.com,image
 google.it##.fJOQGe
 google.com##.fJOQGe
 google.it##.b0KoTc
