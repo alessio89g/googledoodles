@@ -124,3 +124,5 @@ google.it##.gb_X.gb_Z
 google.com##.gb_X.gb_Z
 google.it##.hob1Ic
 google.com##.hob1Ic
+google.com##.hob1Ic
+google.it##.hob1Ic
