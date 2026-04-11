@@ -53,4 +53,3 @@ google.com##.hob1Ic
 google.com##.gb_0.gb_1
 google.com##.DoEL0b
 google.com##.gb_1.gb_2
-!google.com/logos/doodles/*$domain=www.google.com,image
