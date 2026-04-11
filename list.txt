@@ -1,131 +1,55 @@
 [Adblock Plus 2.0]
 ! Title: Google Annoyance
-google.it##.uU7dJb
-google.it##a.pHiOh:nth-of-type(1)
-google.it##a.pHiOh:nth-of-type(2)
-google.it##a.pHiOh:nth-of-type(3)
-google.it###gws-output-pages-elements-homepage_additional_languages__als
-google.it##.kmjBcc
-google.it##.gb_og.gb_xg.gb_i.gb_ae
-google.it##a.MV3Tnb:nth-of-type(1)
-google.it##a.MV3Tnb:nth-of-type(2)
-google.it##.ssOUyb.KxwPGc > .pHiOh
-google.it##.szppmdbYutt__middle-slot-promo
-google.it##.gb_dg.gb_mg.gb_f.gb_8d
-google.it##.gb_bg.gb_kg.gb_f.gb_6d
-google.it##.gb_cg.gb_lg.gb_f.gb_7d
-!google.it/logos/doodles/*$domain=www.google.it,image
-!google.com/logos/doodles/*$domain=www.google.com,image
-google.it##.fJOQGe
 google.com##.fJOQGe
-google.it##.b0KoTc
 google.com##.b0KoTc
-google.it##.JQyAhb.footer__homepage-mobile-settings-row-above-fold.fbar > a.Fx4vi:nth-of-type(1)
-google.it##.JQyAhb.footer__homepage-mobile-settings-row-above-fold.fbar > a.Fx4vi:nth-of-type(2)
 google.com##.JQyAhb.footer__homepage-mobile-settings-row-above-fold.fbar > a.Fx4vi:nth-of-type(1)
 google.com##.JQyAhb.footer__homepage-mobile-settings-row-above-fold.fbar > a.Fx4vi:nth-of-type(2)
-google.it##.Lt2Ned.As6eLe.M6hT6.fbar > div > a.Fx4vi:nth-of-type(1)
-google.it##.Lt2Ned.As6eLe.M6hT6.fbar > div > a.Fx4vi:nth-of-type(2)
-google.it##.Lt2Ned.As6eLe.M6hT6.fbar > div > a.Fx4vi:nth-of-type(3)
 google.com##.Lt2Ned.As6eLe.M6hT6.fbar > div > a.Fx4vi:nth-of-type(1)
 google.com##.Lt2Ned.As6eLe.M6hT6.fbar > div > a.Fx4vi:nth-of-type(2)
 google.com##.Lt2Ned.As6eLe.M6hT6.fbar > div > a.Fx4vi:nth-of-type(3)
-google.it###mdlogo
 google.com###mdlogo
-google.it##.szppmdbYutt__middle-slot-promo
 google.com##.szppmdbYutt__middle-slot-promo
-google.it###gws-output-pages-elements-homepage_additional_languages__als
 google.com###gws-output-pages-elements-homepage_additional_languages__als
-google.it##.uU7dJb
 google.com##.uU7dJb
-google.it##a.pHiOh:nth-of-type(1)
 google.com##a.pHiOh:nth-of-type(1)
-google.it##a.pHiOh:nth-of-type(2)
 google.com##a.pHiOh:nth-of-type(2)
-google.it##a.pHiOh:nth-of-type(3)
 google.com##a.pHiOh:nth-of-type(3)
-google.it###gws-output-pages-elements-homepage_additional_languages__als
-google.com###gws-output-pages-elements-homepage_additional_languages__als
-google.it##.kmjBcc
 google.com##.kmjBcc
-google.it##.gb_og.gb_xg.gb_i.gb_ae
 google.com##.gb_og.gb_xg.gb_i.gb_ae
-google.it##a.MV3Tnb:nth-of-type(1)
 google.com##a.MV3Tnb:nth-of-type(1)
-google.it##a.MV3Tnb:nth-of-type(2)
 google.com##a.MV3Tnb:nth-of-type(2)
-google.it##.ssOUyb.KxwPGc > .pHiOh
 google.com##.ssOUyb.KxwPGc > .pHiOh
-google.it##.szppmdbYutt__middle-slot-promo
-google.com##.szppmdbYutt__middle-slot-promo
-google.it##.b0KoTc
-google.com##.b0KoTc
-google.it##.As6eLe.M6hT6.fbar > div
 google.com##.As6eLe.M6hT6.fbar > div
-google.it###SBmmZd
 google.com###SBmmZd
-google.it##.MZy1Rb.z1asCe > svg > path
 google.com##.MZy1Rb.z1asCe > svg > path
-google.it##.gb_hg.gb_qg.gb_l.gb_ce
 google.com##.gb_hg.gb_qg.gb_l.gb_ce
-google.it##div.gb_o.gb_n:nth-of-type(1)
 google.com##div.gb_o.gb_n:nth-of-type(1)
-google.it##div.gb_o.gb_n:nth-of-type(2)
 google.com##div.gb_o.gb_n:nth-of-type(2)
-google.it##div.gb_p.gb_o:nth-of-type(1)
 google.com##div.gb_p.gb_o:nth-of-type(1)
-google.it##div.gb_p.gb_o:nth-of-type(2)
 google.com##div.gb_p.gb_o:nth-of-type(2)
-google.it##.gb_Tf.gb_3f.gb_v.gb_Pd
 google.com##.gb_Tf.gb_3f.gb_v.gb_Pd
-google.it##div.gb_v.gb_u:nth-of-type(1)
-google.comt##div.gb_v.gb_u:nth-of-type(1)
-google.it##div.gb_v.gb_u:nth-of-type(2)
+google.com##div.gb_v.gb_u:nth-of-type(1)
 google.com##div.gb_v.gb_u:nth-of-type(2)
-google.it##div.gb_C.gb_B:nth-of-type(1)
-google.it##div.gb_C.gb_B:nth-of-type(2)
 google.com##div.gb_C.gb_B:nth-of-type(1)
 google.com##div.gb_C.gb_B:nth-of-type(2)
-google.it##div.gb_I.gb_H:nth-of-type(1)
-google.it##div.gb_I.gb_H:nth-of-type(2)
 google.com##div.gb_I.gb_H:nth-of-type(1)
 google.com##div.gb_I.gb_H:nth-of-type(2)
-google.it##div.gb_J.gb_I:nth-of-type(1)
-google.it##div.gb_J.gb_I:nth-of-type(2)
 google.com##div.gb_J.gb_I:nth-of-type(1)
 google.com##div.gb_J.gb_I:nth-of-type(2)
-google.it##div.gb_L.gb_K:nth-of-type(1)
-google.it##div.gb_L.gb_K:nth-of-type(2)
 google.com##div.gb_L.gb_K:nth-of-type(1)
 google.com##div.gb_L.gb_K:nth-of-type(2)
-google.it##div.gb_K.gb_J:nth-of-type(1)
-google.it##div.gb_K.gb_J:nth-of-type(2)
 google.com##div.gb_K.gb_J:nth-of-type(1)
 google.com##div.gb_K.gb_J:nth-of-type(2)
-google.it##div.gb_K.gb_J:nth-of-type(1)
-google.it##div.gb_K.gb_J:nth-of-type(2)
-google.com##div.gb_K.gb_J:nth-of-type(1)
-google.com##div.gb_K.gb_J:nth-of-type(2)
-google.it##.U8K5Lc
 google.com##.U8K5Lc
-google.it##div.gb_z.gb_y:nth-of-type(1)
-google.it##div.gb_z.gb_y:nth-of-type(2)
 google.com##div.gb_z.gb_y:nth-of-type(1)
 google.com##div.gb_z.gb_y:nth-of-type(2)
-google.it##.CdXeWb.z1asCe.Fp7My
 google.com##.CdXeWb.z1asCe.Fp7My
-google.it##.gb_M.gb_X.gb_Lf.gb_Sf
 google.com##.gb_M.gb_X.gb_Lf.gb_Sf
-google.it##.gb_W.gb_X
 google.com##.gb_W.gb_X
-google.it##.gb_Z.gb_0
 google.com##.gb_Z.gb_0
-google.it##.gb_X.gb_Z
 google.com##.gb_X.gb_Z
-google.it##.hob1Ic
 google.com##.hob1Ic
-google.com##.hob1Ic
-google.it##.hob1Ic
 google.com##.gb_0.gb_1
 google.com##.DoEL0b
 google.com##.gb_1.gb_2
+!google.com/logos/doodles/*$domain=www.google.com,image
