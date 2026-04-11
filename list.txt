@@ -1,5 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Google Annoyance
+
 google.com##.fJOQGe
 google.com##.b0KoTc
 google.com##.JQyAhb.footer__homepage-mobile-settings-row-above-fold.fbar > a.Fx4vi:nth-of-type(1)
@@ -52,3 +53,4 @@ google.com##.hob1Ic
 google.com##.gb_0.gb_1
 google.com##.DoEL0b
 google.com##.gb_1.gb_2
+!google.com/logos/doodles/*$domain=www.google.com,image
